@@ -1,5 +1,5 @@
 
-# Projeto de Sistema de Gestão de Funcionários
+# Atividade Herança - Solutis Dev Trail
 
 Este projeto é uma aplicação simples em Java que demonstra a implementação de herança e polimorfismo utilizando classes que representam diferentes tipos de funcionários em uma organização. O projeto inclui as classes `Pessoa`, `Empregado`, `Administrador`, `Operario` e `Vendedor`.
 
